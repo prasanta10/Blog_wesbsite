@@ -17,7 +17,7 @@ A Blog Website where you can compose your blogs by routing to "/compose" and kee
 
 ### Links
 
-- Github Source Files: https://github.com/prasanta10/Blog_website
+- Github Source Files: https://github.com/prasanta10/Blog_website/
 - URL : https://dry-cliffs-75409.herokuapp.com/
 
 ## My process
