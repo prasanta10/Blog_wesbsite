@@ -1,5 +1,5 @@
 # Blog_wesbsite
-A personal blog website created as an EJS challenge created using Node JS, Express, Mongo DB.
+A personal blog website created as an EJS challenge using Node JS, Express, Mongo DB.
 
 ## Table of contents
 
